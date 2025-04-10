@@ -25,3 +25,6 @@
       .card{
         margin-bottom: 20px;
       }
+.card:hover{
+	transform:scale(1.1)
+}
